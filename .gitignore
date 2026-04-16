@@ -1,0 +1,25 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+*.log
+logs/
+media/
+staticfiles/
+*.sqlite3
+*.h5
+*.model
+*.pickle
+*.png
+*.jpg
+*.jpeg
+*.csv
+.DS_Store
+Thumbs.db
+
+docs/Bachelors final year project.pdf
