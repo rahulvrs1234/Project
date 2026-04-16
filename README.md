@@ -1,6 +1,5 @@
 ﻿# Diagnosis of a Patient to Detect COVID-19 Using Deep Learning
 
-This repository is a cleaned archival reconstruction of my Bachelor of Technology final-year project on COVID-19 diagnosis using deep learning. The available material was limited to the surviving project description and source-code excerpts, so this repo is designed as a professional source snapshot rather than a guaranteed plug-and-play deployment.
 
 ## Project Description
 
