@@ -117,8 +117,3 @@ If the remaining project files are recovered later, this repository can be upgra
 - Degree: Bachelor of Technology
 - Branch: Information Technology
 - Project Title: Diagnosis of a Patient to Detect COVID-19 Using Deep Learning
-- Submission Period: June 2022
-
-## Note
-
-This repository is intentionally written in a clean GitHub-friendly format and excludes teammate names from the public-facing documentation.
